@@ -6,8 +6,7 @@ node{
     }
    stage('Build'){
       withEnv(['%MAVEN_HOME%=$mvnHome']){
-           bat(/cd JenkinsDemo
-"%MAVEN_HOME%\bin\mvn" -Dmaven.test.failure.ignore clean package 
+           bat(/"%MAVEN_HOME%\bin\mvn" -Dmaven.test.failure.ignore clean package 
 pause/)
       }
    }
