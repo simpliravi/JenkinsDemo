@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="11580" started-at="2020-05-31T19:16:46Z" finished-at="2020-05-31T19:16:58Z">
+  <suite name="Suite1" duration-ms="12594" started-at="2020-06-01T11:26:51Z" finished-at="2020-06-01T11:27:03Z">
     <groups>
     </groups>
-    <test name="Regression1" duration-ms="11580" started-at="2020-05-31T19:16:46Z" finished-at="2020-05-31T19:16:58Z">
+    <test name="Regression1" duration-ms="12594" started-at="2020-06-01T11:26:51Z" finished-at="2020-06-01T11:27:03Z">
       <class name="GoogleSearch">
-        <test-method status="PASS" signature="GoogleSearch()[pri:0, instance:GoogleSearch@6d3af739]" name="GoogleSearch" duration-ms="11561" started-at="2020-05-31T19:16:46Z" finished-at="2020-05-31T19:16:58Z">
+        <test-method status="PASS" signature="GoogleSearch()[pri:0, instance:GoogleSearch@6d3af739]" name="GoogleSearch" duration-ms="12574" started-at="2020-06-01T11:26:51Z" finished-at="2020-06-01T11:27:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- GoogleSearch -->
